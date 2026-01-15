@@ -1,7 +1,7 @@
 <h1> Hey there! Myself Muhammad Faiz Ahmed 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=00D1FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Problem+Solver;MVP+Master;Tech+Enthusiast;Chess" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tinos&size=40&duration=2000&pause=2000&color=B7F7D1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Problem+Solver;MVP+Master;Tech+Enthusiast;Chess" />
 </p>
 
 ## 👨🏻‍💻 About Me
